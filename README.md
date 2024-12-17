@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+         <td align="center">
+                <a href="https://github.com/rjha72240">
+                    <img src="https://avatars.githubusercontent.com/u/144362114?s=400&u=362b421e00a64d120a7079477b78d23fdb0d2821&v=4" width="100px;" alt="Rahul jha image "/>
+                    <br />
+                    <sub><b>Rahul Jha</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
